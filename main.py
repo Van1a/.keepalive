@@ -1,7 +1,9 @@
 import requests
 
 def send_request():
-    url = "https://example.com/api"
+    url = "https://amasource.onrender.com/"
     requests.get(url)
 
 send_request()
+
+## Bypassed cold start
